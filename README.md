@@ -1,4 +1,4 @@
-# most-commits
+# record-commits
 a repository with a python file to create commits and push after a certain amount of time
 
 **(HEAVILY INSPIRED BY VIREJDASANI'S PROJECT "COMMITED", FOLLOWING LINKS BELOW WILL BE GITHUB LINKS THAT LEAD TO PROJECTS THAT INSPIRED THIS ONE)
